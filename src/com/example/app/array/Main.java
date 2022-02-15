@@ -19,7 +19,6 @@ public class Main {
 		intArray();
 		stringArray();
 		objetoArray();
-		
 	}
 	
 	public static void intArray() {
